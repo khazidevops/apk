@@ -14,4 +14,3 @@ RUN apt-get update && apt-get install -y \
 
 # Run gradle build when the container launches
 CMD ["gradle", "build"]
-#test
